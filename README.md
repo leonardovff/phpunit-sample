@@ -13,3 +13,6 @@ Use 'composer test' ou 'vendor\bin\phpunit'
 2. [XDebug](https://gist.github.com/odan/1abe76d373a9cbb15bed)
 
 3. [Documentação PHPUNIT](https://phpunit.readthedocs.io/pt_BR/latest/installation.html)	
+
+
+4. [Laravel api test doc](https://laravel.com/docs/5.8/http-tests)	
