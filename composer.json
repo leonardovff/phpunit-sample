@@ -1,0 +1,15 @@
+{
+    "name": "wsc/project",
+    "description": "PHP teste",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"WSCPROJECT\\": "src/"
+    	}
+    },
+    "scripts": {
+        "test": "vendor\\bin\\phpunit"
+    }
+}
