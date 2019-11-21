@@ -1,5 +1,7 @@
 <?php
 
+namespace Tests\unit;
+
 use WSCPROJECT\Math;
 use PHPUnit\Framework\TestCase;
 
