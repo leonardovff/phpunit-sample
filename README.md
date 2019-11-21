@@ -8,6 +8,8 @@ Use 'composer test' ou 'vendor\bin\phpunit'
 
 
 ## Outros
-[Instalação do composer](https://getcomposer.org/doc/00-intro.md#installation-windows).
-[XDebug](https://gist.github.com/odan/1abe76d373a9cbb15bed).
-[Documentação PHPUNIT](https://phpunit.readthedocs.io/pt_BR/latest/installation.html).	
+1. [Instalação do composer](https://getcomposer.org/doc/00-intro.md#installation-windows)
+
+2. [XDebug](https://gist.github.com/odan/1abe76d373a9cbb15bed)
+
+3. [Documentação PHPUNIT](https://phpunit.readthedocs.io/pt_BR/latest/installation.html)	
